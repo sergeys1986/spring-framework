@@ -11,9 +11,6 @@
 
     <artifactId>Spring-05-Core-BeanScope</artifactId>
     <packaging>pom</packaging>
-    <modules>
-        <module>Spring-03-Core-DI</module>
-    </modules>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
